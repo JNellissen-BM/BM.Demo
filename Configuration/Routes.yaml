@@ -1,0 +1,8 @@
+-
+  name: 'BM Default'
+  uriPattern: '({@action})'
+  defaults:
+    '@package': 'BM.Demo'
+    '@controller': 'Standard'
+    '@action': 'index'
+    '@format': 'html'
